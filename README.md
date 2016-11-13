@@ -1,5 +1,7 @@
 # vs-remote-debugger (PHP SDK)
 
+[![Latest Stable Version](https://poser.pugx.org/mkloubert/vs-remote-debugger/version)](https://packagist.org/packages/mkloubert/vs-remote-debugger)
+
 Server-side PHP library for interacting with [vs-remote-debugger](https://github.com/mkloubert/vs-remote-debugger) Visual Studio Code extension, e.g.
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GFV9X2A64ZK3Y)
