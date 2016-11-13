@@ -1,6 +1,7 @@
 {
     "name": "mkloubert/vs-remote-debugger",
     "description": "Classes that can be used with 'vs-remote-debugger' Visual Studio Code extension",
+    "version": "2.0.0",
     "type": "library",
     "license": "MIT",
     "authors": [
