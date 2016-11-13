@@ -47,3 +47,7 @@ $debugger->dbg([
     'g' => true,
 ]);
 ```
+
+A possible result can be this here:
+
+![VS Code screenshot 1](https://raw.githubusercontent.com/mkloubert/php-remote-debugger/master/img/readme-ss-1.png)
