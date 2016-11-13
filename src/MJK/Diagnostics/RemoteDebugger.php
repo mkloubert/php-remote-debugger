@@ -825,6 +825,10 @@ class RemoteDebugger {
      *
      * @param string $name The name of the variable.
      * @param mixed $value The value.
+     * @param int [$ref] The reference.
+     * @param int [&$nextVarRef] The next variable reference value.
+     * @param int [$step] The current step.
+     * @param int [$maxSteps] The maximum number of steps.
      *
      * @return array The created entry.
      */
