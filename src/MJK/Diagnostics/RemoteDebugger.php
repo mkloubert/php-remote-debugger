@@ -457,6 +457,7 @@ class RemoteDebugger {
                     // line
                     if (\array_key_exists('line', $bt)) {
                         $stackFrame['l'] = (int)\trim($bt['line']);
+                        $stackFrame['c'] = 1;  // dummy column
                     }
 
                     if (!empty($func)) {
